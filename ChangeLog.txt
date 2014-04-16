@@ -1,0 +1,4 @@
+2014-04-16 Marcos Fadul <info@edirect24.com>
+
+	* Add hook for indexing
+	* Add noforce check to skip redirect
